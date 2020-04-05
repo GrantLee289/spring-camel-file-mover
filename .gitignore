@@ -1,0 +1,8 @@
+
+./idea
+*idea
+target/*
+logs/*
+target/surefire-reports/*
+
+
