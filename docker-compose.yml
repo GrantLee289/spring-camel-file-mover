@@ -1,7 +1,7 @@
 version: '3.7'
 services:
-  spring-camel-file-mover-service:
-    image: "grantlee289/spring-camel-file-mover-service"
+  spring-camel-file-mover:
+    image: "grantlee289/spring-camel-file-mover"
     volumes:
       - /opt/apps/spring-camel-file-mover/logs:/logs
       - /opt/apps/spring-camel-file-mover/from:/from
