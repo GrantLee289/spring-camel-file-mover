@@ -1,6 +1,6 @@
-package com.grantlee289.spring.routes;
+package com.grantlee289.springcamel.routes;
 
-import com.grantlee289.spring.Application;
+import com.grantlee289.springcamel.Application;
 import org.apache.camel.CamelContext;
 import org.apache.camel.EndpointInject;
 import org.apache.camel.ProducerTemplate;

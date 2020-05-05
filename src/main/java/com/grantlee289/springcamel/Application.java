@@ -1,4 +1,4 @@
-package com.grantlee289.spring;
+package com.grantlee289.springcamel;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

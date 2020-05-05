@@ -1,4 +1,4 @@
-package com.grantlee289.spring.config;
+package com.grantlee289.springcamel.config;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Component;
